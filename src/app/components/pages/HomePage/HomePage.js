@@ -6,11 +6,12 @@ import HoverButton from '../../utilComponents/HoverButton/HoverButton';
 // Since this component is simple and static, there's no parent container for it.
 export default class HomePage extends Component {
 
-	getGifComponent(url) {
+	getGifComponent(url, text) {
 		const attr = 'url(' + url + ') no-repeat center';
 
 		return (
 			<div style={{width: '100%', height: '100%'}}>
+				<div className={'mobile-hover-cover'}>{text}</div>
 				<div className={'home-gif-container'} style={{background: attr, backgroundSize: 'cover'}} />
 			</div>
 		);
@@ -32,30 +33,24 @@ export default class HomePage extends Component {
 				<div className={"home-page"}>
 					<div className={'left-home-icons'}>
 						<div className={"home-page-icon-container"} onClick={openAboutPage}>
-							<div className={'mobile-hover-cover'}>Theory</div>
-							<HoverButton hoverContent={'Theory'} defaultContent={this.getGifComponent(gif1)} />						
+							<HoverButton hoverContent={'Theory'} defaultContent={this.getGifComponent(gif1, 'Theory')} />						
 						</div>
 						<div className={"home-page-icon-container"} onClick={openPhotographyPage}>
-							<div className={'mobile-hover-cover'}>Photography</div>
-							<HoverButton hoverContent={'Photography'} defaultContent={this.getGifComponent(gif2)} />	
+							<HoverButton hoverContent={'Photography'} defaultContent={this.getGifComponent(gif2, 'Photography')} />	
 						</div>
 						<div className={"home-page-icon-container"} onClick={openFilmPage}>
-							<div className={'mobile-hover-cover'}>Film</div>
-							<HoverButton hoverContent={'Film'} defaultContent={this.getGifComponent(gif3)} />	
+							<HoverButton hoverContent={'Film'} defaultContent={this.getGifComponent(gif3, 'Film')} />	
 						</div>
 					</div>
 					<div className={'right-home-icons'}>
 						<div className={"home-page-icon-container"} onClick={openContactPage}>
-							<div className={'mobile-hover-cover'}>Connect</div>
-							<HoverButton hoverContent={'Connect'} defaultContent={this.getGifComponent(gif4)} />
+							<HoverButton hoverContent={'Connect'} defaultContent={this.getGifComponent(gif4, 'Connect')} />
 						</div>
 						<div className={"home-page-icon-container"} onClick={openReelPage}>
-							<div className={'mobile-hover-cover'}>Reel</div>
-							<HoverButton hoverContent={'Reel'} defaultContent={this.getGifComponent(gif5)} />	
+							<HoverButton hoverContent={'Reel'} defaultContent={this.getGifComponent(gif5, 'Reel')} />	
 						</div>
 						<div className={"home-page-icon-container"} onClick={openFeaturePage}>
-							<div className={'mobile-hover-cover'}>Feature</div>
-							<HoverButton hoverContent={'Feature'} defaultContent={this.getGifComponent(gif6)} />	
+							<HoverButton hoverContent={'Feature'} defaultContent={this.getGifComponent(gif6, 'Feature')} />	
 						</div>
 					</div>
 				</div>
