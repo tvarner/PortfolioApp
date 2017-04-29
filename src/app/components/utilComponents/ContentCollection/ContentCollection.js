@@ -2,6 +2,7 @@ import React from 'react';
 
 import contentFileIndex from './../../../../content/_contentFileIndex';
 import ReactPlayer from 'react-player';
+import FontAwesome from 'react-fontawesome';
 
 import Carousel from 'nuka-carousel';
 import HorizontalScrollbar from '../HorizontalScrollbar/HorizontalScrollbar';
@@ -32,12 +33,14 @@ const ContentCollection = React.createClass({
 					<div 
 						className={'content-image-container'} 
 						key={key}>
-						<div 
+						<div className="content-wrapper">
+							<div 
 							className={'content-info-icon'}
 							onClick={this.props.openFullScreenContentModal.bind(this, slideContent)} >
 							INFO
+							</div>
+							<img role={"presentation"} className={'collection-image'} data-tag={key} src={src} />
 						</div>
-						<img role={"presentation"} className={'collection-image'} data-tag={key} src={src} />
 					</div>
 				);
 			} else if (c.type === "video") {

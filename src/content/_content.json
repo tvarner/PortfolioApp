@@ -8,6 +8,10 @@
 		"gif6": "https://media.giphy.com/media/UFExlG0VnJRGo/giphy.gif"
 	},
 
+	"aboutPage": { 
+		"mainImage": "large_logo"
+	},
+
 	"collections": [
 		{
 			"category": ["photography", "feature"],

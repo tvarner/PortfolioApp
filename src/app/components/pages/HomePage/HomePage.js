@@ -55,7 +55,7 @@ export default class HomePage extends Component {
 					</div>
 				</div>
 				<div className={"footer grow"}>
-					<HoverButton onClick={openContactPage} defaultContent={'Jonathan Andre Beckles & Company'} hoverContent={'Connect'} />
+					<HoverButton onClick={openContactPage} defaultContent={'Official Site of Jon André & Company'} hoverContent={'Connect'} />
 				</div>
 			</div>
 		);

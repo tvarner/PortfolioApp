@@ -205,7 +205,7 @@ const ContentPage = React.createClass({
 	},
 
 	render() {
-		const _alphaJumpIcons = ["%", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
+		const _alphaJumpIcons = ["#", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
 		
 		const _getIconFn = function(icon, i) {
 			if (icon === "%") {

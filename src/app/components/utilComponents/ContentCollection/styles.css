@@ -12,6 +12,11 @@ i.arrow {
     background-color: black;
 }
 
+.content-wrapper {
+    height: 80vh;
+    background-color: black;
+}
+
 .content-video-container {
     margin-top: 10vh;
     height: 80vh;
@@ -23,7 +28,7 @@ i.arrow {
 }
 
 .collection-image { 
-    max-height: 100%!important;
+    max-height: 80vh;
     max-width: 100%;
     width: auto!important;
 }
@@ -49,10 +54,10 @@ i.arrow {
     justify-content: flex-start;
     background: rgba(0, 0, 0, 0.7);
     position: absolute;
-    top: 0;
-    left: 0;
-    margin-left: 2vh;
-    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-left: -57px;
+    margin-top: -57px;
 }
 
 .content-collection-slider-button {
@@ -75,6 +80,23 @@ i.arrow {
         width: auto !important;
         max-width: 85vw;
     }
+
+    .content-info-icon {
+        font-size: 3vh;
+        background-color: black;
+        height: 4vw;
+        width: 4vw;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        background: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        margin-left: 40px;
+        margin-top: 20px;
+    }
 }
 
 /** 
@@ -85,6 +107,23 @@ i.arrow {
         max-height: 100% !important;
         width: auto !important;
         max-width: 85vw;
+    }
+
+    .content-info-icon {
+        font-size: 3vh;
+        background-color: black;
+        height: 4vw;
+        width: 4vw;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        background: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 20px;
     }
 }
 
@@ -97,5 +136,22 @@ i.arrow {
         max-height: 100% !important;
         width: auto !important;
         max-width: 68vw;
+    }
+
+    .content-info-icon {
+        font-size: 3vh;
+        background-color: black;
+        height: 4vw;
+        width: 4vw;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        background: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 15px;
     }
 }
