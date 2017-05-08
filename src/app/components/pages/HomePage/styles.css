@@ -68,9 +68,11 @@
 	align-items: center;
 	-webkit-justify-content: center;
 	justify-content: center;
+  cursor: pointer;
 }
 
 .home-page-icon-container:hover {
+  cursor: pointer;
 	font-size: 3.5vh;
 	-webkit-transition-property: font-size;
 	-moz-transition-property: font-size;

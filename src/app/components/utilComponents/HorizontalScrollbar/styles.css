@@ -44,6 +44,9 @@ div.header-thumbnail {
     max-height: 20vh;
 }
 
+.slider-slide { 
+  cursor: -webkit-grab;
+}
 
 /** 
  * iPad with portrait orientation.
