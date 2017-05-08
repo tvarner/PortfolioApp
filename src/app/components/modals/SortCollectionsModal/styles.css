@@ -33,10 +33,11 @@
 	font-size: 2vh;
     display: flex;
     align-items: center;
+  cursor: pointer;
 }
 
 .sort-collections-modal-link:hover {
-	font-size: 3vh;
+	font-size: 2.5vh;
 	-webkit-transition-property: font-size;
 	-moz-transition-property: font-size;
 	-o-transition-property: font-size;
@@ -49,6 +50,7 @@
 	-moz-transition-timing-function: linear;
 	-o-transition-timing-function: linear;
 	transition-timing-function: linear;
+  color: #ffc3e1;
 }
 
 .sort-collections-modal-link:hover:after { 

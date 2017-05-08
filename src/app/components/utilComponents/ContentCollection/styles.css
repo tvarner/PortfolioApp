@@ -31,6 +31,13 @@ i.arrow {
     max-height: 80vh;
     max-width: 100%;
     width: auto!important;
+    cursor: grab !important;
+    cursor: -moz-grab !important !important;
+    cursor: -webkit-grab !important;
+    cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* standard */
+    cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize\9; /* IE 8 and below */
+    cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* IE 7 and below */
+    cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* IE 6 */
 }
 
 .slider-slide { 
@@ -58,6 +65,7 @@ i.arrow {
     justify-content: center;
     margin-left: -57px;
     margin-top: -57px;
+    cursor: pointer;
 }
 
 .content-collection-slider-button {
@@ -70,15 +78,32 @@ i.arrow {
     align-items: center;
     justify-content: center;
     background: rgba(0, 0, 0, 0.7);
+    cursor: pointer;
 }
+
+.collection-image_grabbing {
+cursor: grabbing !important;
+cursor: -moz-grabbing !important;
+cursor: -webkit-grabbing !important;
+cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/closedhand.cur'), n-resize; /* standard */
+cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/closedhand.cur'), n-resize\9; /* IE 8 and below */
+*cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/closedhand.cur'), n-resize; /* IE 7 and below */
+_cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/closedhand.cur'), n-resize; /* IE 6 */
+}
+
 /** 
  * iPad with portrait orientation.
  */
 @media all and (max-device-width: 769px) and (max-device-height: 1024px) and (orientation:portrait){
     .collection-image {
+        cursor: grab;
         max-height: 100% !important;
         width: auto !important;
         max-width: 85vw;
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* standard */
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize\9; /* IE 8 and below */
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* IE 7 and below */
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* IE 6 */
     }
 
     .content-info-icon {
@@ -96,6 +121,7 @@ i.arrow {
         justify-content: center;
         margin-left: 40px;
         margin-top: 20px;
+        cursor: pointer;
     }
 }
 
@@ -104,9 +130,12 @@ i.arrow {
  */
 @media all and (max-device-width: 769px) and (max-device-height: 1024px) and (orientation:landscape){
     .collection-image {
+        cursor: grab;
         max-height: 100% !important;
         width: auto !important;
         max-width: 85vw;
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* standard */
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize\9; /* IE 8 and below */
     }
 
     .content-info-icon {
@@ -124,6 +153,7 @@ i.arrow {
         justify-content: center;
         margin-left: 50px;
         margin-top: 20px;
+        cursor: pointer;
     }
 }
 
@@ -133,9 +163,14 @@ i.arrow {
  */
 @media screen and (max-device-width: 415px) {
     .collection-image {
+        cursor: grab;
         max-height: 100% !important;
         width: auto !important;
         max-width: 68vw;
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* standard */
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize\9; /* IE 8 and below */
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* IE 7 and below */
+        cursor: url('https://github.com/bqworks/slider-pro/raw/master/dist/css/images/openhand.cur'), n-resize; /* IE 6 */
     }
 
     .content-info-icon {
@@ -153,5 +188,6 @@ i.arrow {
         justify-content: center;
         margin-left: 50px;
         margin-top: 15px;
+        cursor: pointer;
     }
 }

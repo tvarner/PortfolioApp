@@ -37,7 +37,8 @@ const mapDispatchToProps = (dispatch) => {
 			dispatch(reRender());
 		},
 
-		openSortCollectionsModal: () => { 
+		openSortCollectionsModal: () => {
+			debugger;
 			dispatch(setActiveModal('SORT_COLLECTIONS_MODAL'));
 		}
 	};

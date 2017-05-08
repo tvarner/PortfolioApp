@@ -208,7 +208,7 @@ const ContentPage = React.createClass({
 		const _alphaJumpIcons = ["#", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
 		
 		const _getIconFn = function(icon, i) {
-			if (icon === "%") {
+			if (icon === "#") {
 				return (
 					<div key={i} onClick={this.props.openSortCollectionsModal} className={"alphabetical-jump-icon"}>{icon}</div> 
 				);
