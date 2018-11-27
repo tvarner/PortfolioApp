@@ -27,35 +27,42 @@ export default class HomePage extends Component {
 		const gif4 = contentMonolith.homePage.gif4;
 		const gif5 = contentMonolith.homePage.gif5;
 		const gif6 = contentMonolith.homePage.gif6;
+		const gif1Title = contentMonolith.homePage.gif1Title;
+		const gif2Title = contentMonolith.homePage.gif2Title;
+		const gif3Title = contentMonolith.homePage.gif3Title;
+		const gif4Title = contentMonolith.homePage.gif4Title;
+		const gif5Title = contentMonolith.homePage.gif5Title;
+		const gif6Title = contentMonolith.homePage.gif6Title;
+		const footerText = contentMonolith.homePage.footerText;
 
 		return (
 			<div style={{ width: '100%', height: '100%'}}>
 				<div className={"home-page"}>
 					<div className={'left-home-icons'}>
 						<div className={"home-page-icon-container"} onClick={openAboutPage}>
-							<HoverButton hoverContent={'Theory'} defaultContent={this.getGifComponent(gif1, 'Theory')} />						
+							<HoverButton hoverContent={gif1Title} defaultContent={this.getGifComponent(gif1, gif1Title)} />						
 						</div>
 						<div className={"home-page-icon-container"} onClick={openPhotographyPage}>
-							<HoverButton hoverContent={'Photography'} defaultContent={this.getGifComponent(gif2, 'Photography')} />	
+							<HoverButton hoverContent={gif2Title} defaultContent={this.getGifComponent(gif2, gif2Title)} />	
 						</div>
 						<div className={"home-page-icon-container"} onClick={openFilmPage}>
-							<HoverButton hoverContent={'Film'} defaultContent={this.getGifComponent(gif3, 'Film')} />	
+							<HoverButton hoverContent={gif3Title} defaultContent={this.getGifComponent(gif3, gif3Title)} />	
 						</div>
 					</div>
 					<div className={'right-home-icons'}>
 						<div className={"home-page-icon-container"} onClick={openContactPage}>
-							<HoverButton hoverContent={'Connect'} defaultContent={this.getGifComponent(gif4, 'Connect')} />
+							<HoverButton hoverContent={gif4Title} defaultContent={this.getGifComponent(gif4, gif4Title)} />
 						</div>
 						<div className={"home-page-icon-container"} onClick={openReelPage}>
-							<HoverButton hoverContent={'Reel'} defaultContent={this.getGifComponent(gif5, 'Reel')} />	
+							<HoverButton hoverContent={gif5Title} defaultContent={this.getGifComponent(gif5, gif5Title)} />	
 						</div>
 						<div className={"home-page-icon-container"} onClick={openFeaturePage}>
-							<HoverButton hoverContent={'Feature'} defaultContent={this.getGifComponent(gif6, 'Feature')} />	
+							<HoverButton hoverContent={gif6Title} defaultContent={this.getGifComponent(gif6, gif6Title)} />	
 						</div>
 					</div>
 				</div>
 				<div className={"footer grow"}>
-					<HoverButton onClick={openContactPage} defaultContent={'Official Site of Jon André & Company'} hoverContent={'Connect'} />
+					<HoverButton onClick={openContactPage} defaultContent={footerText} hoverContent={'Connect'} />
 				</div>
 			</div>
 		);

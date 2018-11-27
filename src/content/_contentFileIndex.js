@@ -37,7 +37,8 @@ const contentFileIndex = {
 	shabazz6: require('./shabazz6.jpg'),
 	shabazz7: require('./shabazz7.jpg'),
 	shabazz8: require('./shabazz8.jpg'),
-	large_logo: require('./large_logo.png')
+	large_logo: require('./large_logo.png'),
+	corner_icon: require('./OfficialLogo.jpg')
 };
 
 export default contentFileIndex;

@@ -13,6 +13,8 @@ import ContentPageContainer from '../ContentPage/ContentPageContainer';
 import SortCollectionsModalContainer from '../../modals/SortCollectionsModal/SortCollectionsModalContainer';
 import FullScreenContentModalContainer from '../../modals/FullScreenContentModal/FullScreenContentModalContainer';
 
+import contentFileIndex from './../../../../content/_contentFileIndex';
+
 import './styles.css';
 
 const styles = {
@@ -100,6 +102,9 @@ const Application = React.createClass({
 	},
 
 	render() {
+		const contentMonolith = require('./../../../../content/_content.json');
+		const cornerIconUrl = contentFileIndex[contentMonolith.cornerIcon];
+
 		const sidebarProps = this.props.sidebar;
 		_.extend(sidebarProps, {
 			onSetOpen: this.props.setSidebarOpen,
@@ -110,7 +115,7 @@ const Application = React.createClass({
 		const contentHeader = (
 			<div style={{height: '100%', display: 'flex', alignItems: 'center'}}>
 				<div className={'main-view-logo'} onClick={this.props.logoButtonClick}>
-					<img role={"presentation"} className={'logo-image'} src={require('./../../../styles/assets/OfficialLogo.jpg')} />
+					<img role={"presentation"} className={'logo-image'} src={cornerIconUrl} />
 				</div>
 				{!this.props.sidebar.docked &&
 				<div className="main-menu-icon" onClick={this.props.menuButtonClick}>

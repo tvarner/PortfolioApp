@@ -1,17 +1,31 @@
 { 
+	"cornerIcon": "corner_icon",
 	"homePage": {
 		"gif1": "https://media.giphy.com/media/dtbB41relo3N6/giphy.gif", 
 		"gif2": "https://media.giphy.com/media/tarn31SCK2v1S/giphy.gif", 
 		"gif3": "https://media.giphy.com/media/10W46ufXb3PzZS/giphy.gif", 
 		"gif4": "https://media.giphy.com/media/1EpaY72a3fmfHcE8/giphy.gif", 
 		"gif5": "https://media.giphy.com/media/kVxifQzsa0iIM/giphy.gif", 
-		"gif6": "https://media.giphy.com/media/UFExlG0VnJRGo/giphy.gif"
+		"gif6": "https://media.giphy.com/media/UFExlG0VnJRGo/giphy.gif",
+		"gif1Title": "Theory",
+		"gif2Title": "Photography",
+		"gif3Title": "Film",
+		"gif4Title": "Connect",
+		"gif5Title": "Real",
+		"gif6Title": "Feature",
+		"footerText": "Official Site of Jon André & Company",
+		"footerTextHover": "Connect"
 	},
 
 	"aboutPage": { 
-		"mainImage": "large_logo"
+		"mainImage": "large_logo",
+		"aboutText": "Jon André Co. is a content label for film and fine arts. The label was formed to counteract a creative industries that thrive on anesthesia— ephemeral content, that although may be momentarily pleasurable, ultimately sedates the emotional intelligence and intellect of its viewers.Jon André is not just a brand or enterprise, but a system of belief relative to the intentionality of arts and mass media. At its foundation, Jon Andre is a school of thoughtful and active artists, who believe that the general public should support the production of subversive content—intellectually probing art, literature, and media that incites discussion and introspection among viewers."
 	},
-
+	"connectPage": {
+		"homeIcon": "corner_icon",
+		"emailIcon": "email_icon",
+		"instagramIcon": "instagram_icon"
+	},
 	"collections": [
 		{
 			"category": ["photography", "feature"],
