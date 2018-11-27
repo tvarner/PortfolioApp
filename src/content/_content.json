@@ -14,488 +14,451 @@
 
 	"collections": [
 		{
-			"category": ["photography", "feature"],
-			"name": "Gordon Parks Collection",
-			"authors": ["Gordon Parks"],
-			"dateCreated": "01/01/1953",
-			"datePublished": "07/01/2016",
+			"category": ["photography"],
+			"name": "Pink Album",
+			"authors": ["Jon André"],
+			"dateCreated": "05/23/2017",
+			"datePublished": "05/23/2017",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 			"content" : [
 				{
 					"type": "image",
-					"name": "Parks 1", 
-					"authors": ["Gordon Parks"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Hova Song (View From Kuscizko Bridge)", 
+					"authors": ["Jon André"],
+					"dateCreated": "05/07/2016",
+					"datePublished": "05/23/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "parks1"
+					"url": "hovasong2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Parks 2", 
-					"authors": ["Gordon Parks"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Julia A", 
+					"authors": ["Jon André"],
+					"dateCreated": "11/20/016",
+					"datePublished": "05/23/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "parks2"
+					"url": "julia2_2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Parks 3", 
-					"authors": ["Gordon Parks"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Julia B", 
+					"authors": ["Jon André"],
+					"dateCreated": "11/20/2016",
+					"datePublished": "05/23/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "parks3"
+					"url": "julia1_2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Parks 4", 
-					"authors": ["Gordon Parks"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Perfection (Pride)", 
+					"authors": ["Jon André"],
+					"dateCreated": "05/07/2016",
+					"datePublished": "05/23/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "parks4"
+					"url": "perfectionpride2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Parks 5", 
-					"authors": ["Gordon Parks"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Damsel", 
+					"authors": ["Jon André"],
+					"dateCreated": "05/05/2016",
+					"datePublished": "05/23/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "parks5"
+					"url": "damsel2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Parks 6", 
-					"authors": ["Gordon Parks"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Reason", 
+					"authors": ["Jon André"],
+					"dateCreated": "05/07/2016",
+					"datePublished": "05/23/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "parks6"
-				}
-			]
-		},
-
-		{
-			"category": ["photography", "feature"],
-			"name": "Margaret Bourke-White Collection",
-			"authors": ["Margaret Bourke-White"],
-			"dateCreated": "01/01/1954",
-			"datePublished": "07/01/2016",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-			"content" : [
-				{
-					"type": "image",
-					"name": "Bourke-White 1", 
-					"authors": ["Margaret Bourke-White"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "margaret1"
-				},
-
-				{
-					"type": "image",
-					"name": "Bourke-White 2", 
-					"authors": ["Margaret Bourke-White"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "margaret2"
-				},
-
-				{
-					"type": "image",
-					"name": "Bourke-White 3", 
-					"authors": ["Margaret Bourke-White"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "margaret3"
-				},
-
-				{
-					"type": "image",
-					"name": "Bourke-White 4", 
-					"authors": ["Margaret Bourke-White"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "margaret4"
-				},
-
-				{
-					"type": "image",
-					"name": "Bourke-White 5", 
-					"authors": ["Margaret Bourke-White"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "margaret5"
-				}
-			]
-		},
-
-		{
-			"category": ["photography", "feature"],
-			"name": "Jamel Shabazz Collection",
-			"authors": ["Jamel Shabazz"],
-			"dateCreated": "01/01/1980",
-			"datePublished": "07/01/2016",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-			"content" : [
-				{
-					"type": "image",
-					"name": "Shabazz 1", 
-					"authors": ["Jamel Shabazz"],
-					"dateCreated": "01/01/1980",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "shabazz1"
-				},
-
-				{
-					"type": "image",
-					"name": "Shabazz 2", 
-					"authors": ["Jamel Shabazz"],
-					"dateCreated": "01/01/1980",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "shabazz2"
-				},
-
-				{
-					"type": "image",
-					"name": "Shabazz 3", 
-					"authors": ["Jamel Shabazz"],
-					"dateCreated": "01/01/1980",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "shabazz3"
-				},
-
-				{
-					"type": "image",
-					"name": "Shabazz 4", 
-					"authors": ["Jamel Shabazz"],
-					"dateCreated": "01/01/1980",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "shabazz4"
-				},
-
-				{
-					"type": "image",
-					"name": "Shabazz 5", 
-					"authors": ["Jamel Shabazz"],
-					"dateCreated": "01/01/1980",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "shabazz5"
-				},
-
-				{
-					"type": "image",
-					"name": "Shabazz 6", 
-					"authors": ["Jamel Shabazz"],
-					"dateCreated": "01/01/1980",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "shabazz6"
+					"url": "reason2016"
 				}
 			]
 		},
 
 		{
 			"category": ["photography"],
-			"name": "Richard Avedon Collection",
-			"authors": ["Richard Avedon"],
-			"dateCreated": "01/01/1955",
-			"datePublished": "07/01/2016",
+			"name": "VARNER (THE PROCESS)",
+			"authors": ["Jon André"],
+			"dateCreated": "08/26/2016",
+			"datePublished": "05/24/2017",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 			"content" : [
 				{
 					"type": "image",
-					"name": "Avedon 1", 
-					"authors": ["Richard Avedon"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Clearly", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/26/2016",
+					"datePublished": "05/24/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "avedon1"
+					"url": "clearly2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Avedon 2", 
-					"authors": ["Richard Avedon"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Uppercase", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/26/2016",
+					"datePublished": "05/24/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "avedon2"
+					"url": "uppercase2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Avedon 3", 
-					"authors": ["Richard Avedon"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Grit", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/26/2016",
+					"datePublished": "05/24/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "avedon3"
+					"url": "grit2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Avedon 4", 
-					"authors": ["Richard Avedon"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Untitled (Exposure)", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/26/2016",
+					"datePublished": "05/24/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "avedon4"
+					"url": "exposure2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Untitled", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/26/2016",
+					"datePublished": "05/24/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "lightbulb2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Devils", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/26/2016",
+					"datePublished": "05/24/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "devils2016"
 				}
 			]
 		},
 
 		{
 			"category": ["photography"],
-			"name": "Eli Reed Collection",
-			"authors": ["Eli Reed"],
-			"dateCreated": "01/01/1956",
-			"datePublished": "07/01/2016",
+			"name": "ZOE (STAGE LEFT)",
+			"authors": ["Jon André"],
+			"dateCreated": "08/23/2016",
+			"datePublished": "05/29/2017",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 			"content" : [
 				{
 					"type": "image",
-					"name": "Reed 1", 
-					"authors": ["Eli Reed"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Hot Like Love", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed1"
+					"url": "hotlikelove2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Reed 2", 
-					"authors": ["Eli Reed"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Recluse X", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed2"
+					"url": "reclusex2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Reed 3", 
-					"authors": ["Eli Reed"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Lady", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed3"
+					"url": "lady2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Reed 4", 
-					"authors": ["Eli Reed"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Bottled Up", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed4"
+					"url": "bottledup2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Reed 5", 
-					"authors": ["Eli Reed"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Thriller", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed5"
+					"url": "thriller2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Reed 6", 
-					"authors": ["Eli Reed"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Miss Quinn", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed6"
-				},
-				{
-					"type": "image",
-					"name": "Reed 7", 
-					"authors": ["Eli Reed"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed7"
+					"url": "missquinn2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Reed 8", 
-					"authors": ["Eli Reed"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Domino", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed8"
+					"url": "domino2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Reed 9", 
-					"authors": ["Eli Reed"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Satire", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed9"
+					"url": "satire2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Hot Raw", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "hotraw2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Subtlety (Triptych)", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "subtlety2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Heat (Jungle)", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "heat_jungle2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Dead Presidents I", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "deadpresidents_I2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Dead Presidents II", 
+					"authors": ["Jon André"],
+					"dateCreated": "08/13/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "deadpresidents_II2016"
 				}
 			]
 		},
 
 		{
 			"category": ["photography"],
-			"name": "Irving Penn Collection",
-			"authors": ["Irving Penn"],
-			"dateCreated": "01/01/1957",
-			"datePublished": "07/01/2016",
+			"name": "MIRROR (FOR SISTER)",
+			"authors": ["Jon André"],
+			"dateCreated": "10/01/2016",
+			"datePublished": "05/29/2017",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
 			"content" : [
 				{
 					"type": "image",
-					"name": "Penn 1", 
-					"authors": ["Irving Penn"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Direction (Blue)", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "penn1"
+					"url": "direction2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Penn 2", 
-					"authors": ["Irving Penn"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Mirror", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "penn2"
+					"url": "mirror2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Penn 3", 
-					"authors": ["Irving Penn"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Base", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "penn3"
+					"url": "base2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Penn 4", 
-					"authors": ["Irving Penn"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Grasp", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "penn4"
+					"url": "grasp2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Penn 5", 
-					"authors": ["Irving Penn"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Womb I", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "penn5"
+					"url": "womb2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Penn 6", 
-					"authors": ["Irving Penn"],
-					"dateCreated": "01/01/1953",
-					"datePublished": "07/01/2016",
+					"name": "Visions", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "penn6"
-				}
-			]
-		},
-		{
-			"category": ["photography"],
-			"name": "Random",
-			"authors": ["Irving Penn"],
-			"dateCreated": "01/01/1957",
-			"datePublished": "07/01/2016",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-			"content" : [
-				{
-					"type": "video",
-					"name": "The PJs",
-					"authors": ["Eddie Murphy", "Larry Wilmore", "Steve Tompkins"],
-					"dateCreated": "01/01/2001",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "https://www.youtube.com/watch?v=qdpxoU2OJyU"
-				},
-
-				{
-					"type": "video",
-					"name": "Eddie Murphy Raw: Italians After They Have Seen Rocky",
-					"authors": ["Eddie Murphy"],
-					"dateCreated": "01/01/2001",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "https://www.youtube.com/watch?v=YMqMKxJJYvY"
-				},
-
-				{
-					"type": "video",
-					"name": "Louis CK: Cell Phones and Flying",
-					"authors": ["Louis C.K."],
-					"dateCreated": "01/01/2001",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "https://vimeo.com/69662330"
-				}
-			]
-		},
-		{
-			"category": ["photography"],
-			"name": "Random",
-			"authors": ["Jonathan Beckles", "Thomas Varner"],
-			"dateCreated": "01/01/1955",
-			"datePublished": "09/01/2016",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-			"content" : [
-				{
-					"type": "video",
-					"name": "A Tribe Called Quest-Check The Rhime Remix",
-					"authors": ["Some dude"],
-					"dateCreated": "01/01/2001",
-					"datePublished": "07/01/2016",
-					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "https://www.youtube.com/watch?v=m3Dm8itBaXI"
+					"url": "vision2016"
 				},
 
 				{
 					"type": "image",
-					"name": "Reed 8",
-					"authors": ["Eddie Murphy"],
-					"dateCreated": "01/01/2001",
-					"datePublished": "07/01/2016",
+					"name": "Shoulders", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-					"url": "reed8"
+					"url": "shoulders2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Support", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "support2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Tribe", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "tribe2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Rest", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "rest2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Untitled (Rest)", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "untitled_rest2016"
+				},
+
+				{
+					"type": "image",
+					"name": "For You I", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "foryou2016"
+				},
+
+				{
+					"type": "image",
+					"name": "For You II", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "foryou22016"
+				},
+
+				{
+					"type": "image",
+					"name": "Together", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "together2016"
+				},
+
+				{
+					"type": "image",
+					"name": "Womb II", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "womb22016"
+				},
+
+				{
+					"type": "image",
+					"name": "Untitled (Sisterhood)", 
+					"authors": ["Jon André"],
+					"dateCreated": "10/01/2016",
+					"datePublished": "05/29/2017",
+					"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+					"url": "untitled_sisterhood2016"
 				}
 			]
 		}
